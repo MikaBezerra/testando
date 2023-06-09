@@ -1,0 +1,26 @@
+.app {
+  font-family: Arial, sans-serif;
+}
+
+.footer {
+  background-color: blue;
+  color: white;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer p {
+  margin: 0;
+}
+
+.footer button {
+  background-color: white;
+  color: blue;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
